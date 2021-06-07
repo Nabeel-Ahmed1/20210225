@@ -1,4 +1,4 @@
-package com.example.layouts;
+package org.haqnawaz.layouts;
 
 import androidx.appcompat.app.AppCompatActivity;
 
